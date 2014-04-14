@@ -1,0 +1,19 @@
+
+[{shop_url}] 
+
+Здравствуйе, {firstname} {lastname}, 
+
+На ваше имя был создан купон в
+результате вашего заказа со ссылкой
+{order_name}.
+
+КОД КУПОНА: {voucher_num} в количестве
+{voucher_amount}
+
+Просто скопируйте / вставьте этот код
+в процессе оплаты вашего следующего
+заказа. 		 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

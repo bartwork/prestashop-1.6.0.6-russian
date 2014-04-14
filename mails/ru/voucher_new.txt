@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Здравствуйе, {firstname} {lastname}, 
+
+Вот код Вашего ваучера: {voucher_num}
+
+Просто скопируйте / вставьте этот код
+в процессе оплаты вашего следующего
+заказа. 		 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

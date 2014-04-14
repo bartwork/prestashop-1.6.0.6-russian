@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Здравствуйе, {firstname} {lastname}, 
+
+Был сформирован новый заказ на ваше
+имя. 
+
+Перейдите по ссылке {order_link}
+[{order_link}] для завершения
+оплаты. 		 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

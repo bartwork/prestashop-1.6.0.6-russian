@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Здравствуйе, {firstname} {lastname}, 
+
+{employee} хочет начать с вами разговор. 
+
+ИСТОРИЯ СООБЩЕНИЙ: {messages}
+
+{employee} добавил "{comment}" 		 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Сообщение от покупателя {shop_name} 
+
+E-MAIL КЛИЕНТА: {email}
+
+СООБЩЕНИЕ ПОКУПАТЕЛЯ: {message}
+
+ID ЗАКАЗА: {order_name}
+
+ПРИКРЕПЛЕННЫЙ ФАЙЛ: {attached_file} 		 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,73 @@
+
+[{shop_url}] 
+
+Здравствуйе, {firstname} {lastname},
+
+Благодарим вас за покупки в {shop_name}! 
+
+ЗАКАЗ: {order_name} Оформлен {date}
+
+ОПЛАТА: {payment} 		 
+
+АРТИКУЛ
+
+ТОВАР
+
+ЦЕНА ЗА ЕДИНИЦУ
+
+КОЛИЧЕСТВО
+
+ИТОГО
+
+{products} 
+
+{discounts} 
+
+ТОВАРЫ 
+
+{total_products} 
+
+СКИДКИ 
+
+{total_discounts} 
+
+ПОДАРОЧНАЯ УПАКОВКА 
+
+{total_wrapping} 
+
+ДОСТАВКА 
+
+{total_shipping} 
+
+ВСЕГО НАЛОГОВ ОПЛАЧЕНО 
+
+{total_tax_paid} 
+
+ВСЕГО УДЕЛЕНО 
+
+{total_paid} 
+
+СПОСОБ ДОСТАВКИ {carrier}
+
+ОПЛАТА: {payment} 		 
+
+{delivery_block_html} 
+
+{invoice_block_html} 
+
+Вы можете просмотреть ваш заказ и
+скачать вашу накладную из раздела
+"История заказов" [{history_url}]
+Вашего аккаунта, нажав "Моя учетная
+запись" [{my_account_url}] в нашем
+магазине. 
+
+Если у вас гостевая учетная запись,
+вы можете следить за заказом через
+"Гостевое отслеживание"
+[{guest_tracking_url}?id_order={order_name}] в
+нашем магазине. 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

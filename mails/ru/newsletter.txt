@@ -1,0 +1,10 @@
+
+[{shop_url}] 
+
+Здравствуйе, {firstname} {lastname}, 
+
+{message} 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

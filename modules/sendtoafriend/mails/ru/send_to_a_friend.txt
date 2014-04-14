@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Здравствуйте {name},
+
+Спасибо за создание
+пользовательского аккаунта в {shop_name}. 
+
+Для просмотра товара нажмите: {product}
+[{product_link}] 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+

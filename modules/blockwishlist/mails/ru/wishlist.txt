@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Здравствуйте, 
+
+{firstname} {lastname}разрешил вам видеть
+его/ее список желаний: {wishlist}
+
+{wishlist} [{message}] 		 
+
+{shop_name} [{shop_url}] работает
+на PrestaShop(tm) [http://www.prestashop.com/] 
+
